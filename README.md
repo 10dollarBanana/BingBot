@@ -13,7 +13,7 @@ Just a project I created to play with using python to control a webbrowser. This
 
 <img width="1010" alt="Screen Shot 2021-09-17 at 8 01 50 PM" src="https://user-images.githubusercontent.com/89819081/133871736-3955ec83-e5c4-4fb0-b171-4e08d446caec.png">
 
-## To Do:
+## To Do
 
 - Update script to earn Daily Set
 
