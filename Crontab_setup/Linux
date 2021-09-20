@@ -9,4 +9,4 @@ cd /home/<user>/Documents/BingBot/
 
 source env/bin/activate
 
-XAUTHORITY=/home/<user./.Xauthority DISPLAY=:0 python3 BingBot.py
+XAUTHORITY=/home/<user>/.Xauthority DISPLAY=:0 python3 BingBot.py
