@@ -18,7 +18,7 @@ Just a project I created to play with using python to control a webbrowser. This
 ## Python setup
 
 All the following steps are performed within terminal:
-1. To create a virtual environment:`python -m venv env/`
+1. To create a virtual environment: `python -m venv env/`
 2. To start virtual enviornment: `source env/bin/activate`
 3. To run script within virtual enviroment: `python BingBot.py`
 4. Python will tell you what packages are missing and need to be installed. To install: `pip install [package name]`
