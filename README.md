@@ -13,10 +13,19 @@ Just a project I created to play with using python to control a webbrowser. This
 
 <img width="1010" alt="Screen Shot 2021-09-17 at 8 01 50 PM" src="https://user-images.githubusercontent.com/89819081/133871736-3955ec83-e5c4-4fb0-b171-4e08d446caec.png">
 
+- Also need to OK closing multiple tabs
+
+## Python setup
+
+All the following steps are performed within terminal:
+- To create a virtual environment:`python -m venv env/`
+- To start virtual enviornment: `source env/bin/activate`
+- To run script within virtual enviroment: `python BingBot.py`
+Python will tell you what packages are missing and need to be installed.
+
 ## To Do
 
 - Update script to earn Daily Set
-
 
 
 ## Find this project helpful?
