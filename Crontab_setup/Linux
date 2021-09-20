@@ -1,0 +1,12 @@
+#!/bin/bash
+
+# Example setup to get script working with crontab
+
+# Create xauth file, if missing
+# /bin/bash -c 'ln -s -f "$XAUTHORITY" ~/.Xauthority'
+
+cd /home/<user>/Documents/BingBot/
+
+source env/bin/activate
+
+XAUTHORITY=/home/<user./.Xauthority DISPLAY=:0 python3 BingBot.py
