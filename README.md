@@ -13,3 +13,7 @@ Just a project I created to play with using python to control a webbrowser. This
 
 ## To Do:
 - Update script to earn Daily Set
+
+
+
+[!["Buy Me A Coffee"](https://www.buymeacoffee.com/assets/img/custom_images/orange_img.png)](https://www.buymeacoffee.com/thewildside)
