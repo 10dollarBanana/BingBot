@@ -21,7 +21,7 @@ All the following steps are performed within terminal:
 - To create a virtual environment:`python -m venv env/`
 - To start virtual enviornment: `source env/bin/activate`
 - To run script within virtual enviroment: `python BingBot.py`
-- Python will tell you what packages are missing and need to be installed. To install `pip install [package name]`
+- Python will tell you what packages are missing and need to be installed. To install: `pip install [package name]`
 
 ## To Do
 
