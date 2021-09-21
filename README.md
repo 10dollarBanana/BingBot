@@ -30,7 +30,9 @@ All the following steps are performed within terminal:
 
 ## Find this project helpful?
 
-Consider donating some crypto
+[!["Buy Me A Coffee"](https://www.buymeacoffee.com/assets/img/custom_images/orange_img.png)](https://www.buymeacoffee.com/thewildside)
+
+or consider donating some crypto:
 
 ### Bitcoin: 
 <img width="292" alt="Bitcoin" src="https://user-images.githubusercontent.com/89819081/134095057-8dd9867f-0210-4889-bfb6-60040aa405cd.png">
