@@ -33,10 +33,10 @@ All the following steps are performed within terminal:
 Consider donating some crypto
 
 ### Bitcoin: 
-- bc<img width="292" alt="Bitcoin" src="https://user-images.githubusercontent.com/89819081/134095057-8dd9867f-0210-4889-bfb6-60040aa405cd.png">
+<img width="292" alt="Bitcoin" src="https://user-images.githubusercontent.com/89819081/134095057-8dd9867f-0210-4889-bfb6-60040aa405cd.png">
 - 1q9ndvpdx2272mmstt4hhtq07mlr5mlrxfznhhzx
 
 ### Ethereum:
-- <img width="300" alt="Ethereum" src="https://user-images.githubusercontent.com/89819081/134095136-301f957a-6dc2-4c4b-a6de-ea7df1f5eb01.png">
+<img width="300" alt="Ethereum" src="https://user-images.githubusercontent.com/89819081/134095136-301f957a-6dc2-4c4b-a6de-ea7df1f5eb01.png">
 - 0x7A3f21ba4292B019534dc73951592f9E25390064
 
