@@ -30,7 +30,7 @@ All the following steps are performed within terminal:
 
 ## Find this project helpful?
 
-[!["Buy Me A Coffee"](https://www.buymeacoffee.com/assets/img/custom_images/orange_img.png)](https://www.buymeacoffee.com/thewildside)
+[!["Buy Me A Coffee"](https://www.buymeacoffee.com/assets/img/custom_images/orange_img.png)](https://www.buymeacoffee.com/10dollarbanana)
 
 or consider donating some crypto:
 
