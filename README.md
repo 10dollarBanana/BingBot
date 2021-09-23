@@ -42,3 +42,7 @@ or consider donating some crypto:
 <img width="300" alt="Ethereum" src="https://user-images.githubusercontent.com/89819081/134095136-301f957a-6dc2-4c4b-a6de-ea7df1f5eb01.png">
 - 0x7A3f21ba4292B019534dc73951592f9E25390064
 
+### Litecoin:
+<img width="291" alt="Screen Shot 2021-09-23 at 2 32 04 PM" src="https://user-images.githubusercontent.com/89819081/134572014-2ce299fc-92b5-45f7-bd27-8ab9a743c4ba.png">
+- Address: LQt29xnfGzQiYAyy8Qv9oXXmC558QUcXa4
+
